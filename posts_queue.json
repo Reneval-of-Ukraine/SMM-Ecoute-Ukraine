@@ -308,9 +308,15 @@
   {
     "id": 999,
     "title": "ТЕСТ — можно удалить",
-    "platforms": ["tg"],
+    "platforms": [
+      "tg"
+    ],
     "scheduled_time": "2026-07-28 09:00",
-    "published": false,
-    "tg_text": "Тестовое сообщение автопостинга Écoute Ukraine."
+    "published": true,
+    "tg_text": "Тестовое сообщение автопостинга Écoute Ukraine.",
+    "last_run_at": "2026-07-28 17:39:38 UTC",
+    "last_result": {
+      "tg": false
+    }
   }
 ]
