@@ -9,25 +9,24 @@
 ```
 poster_action.py                 — публикующий скрипт (TG/FB/IG)
 get_long_token.py                — разовый помощник для обмена Facebook-токена
-posts_queue.json                 — очередь постов (8 стартовых, из Month_1 пака)
+build_queue.py                   — генератор очереди из Month_1 (уже отработал один раз)
+posts_queue.json                 — очередь постов (23 поста на месяц, из Month_1 пака)
 .github/workflows/post-scheduler.yml  — GitHub Actions workflow (cron раз в 10 мин)
+IMAGES_NEEDED.txt                — список всех 55 файлов картинок, которые должны лежать в images/
 ```
 
-## Шаг 1 — создать репозиторий
+## Шаг 1 — репозиторий (готово)
 
-1. Создайте новый **приватный** репозиторий на GitHub, например `ecoute-ukraine-autoposting`.
-2. Загрузите в него все файлы из этого комплекта, сохранив структуру папок.
-3. Создайте папку `images/` и положите туда картинки — по одной подпапке на
-   Content ID (`images/UA-01/...png`, `images/FB-UA-01/...png` и т.д.), как в
-   исходной папке `Month_1`. Список нужных файлов для стартовых 8 постов — ниже.
-4. **Картинки должны быть доступны публично** через
-   `raw.githubusercontent.com` — если репозиторий приватный, поставьте раздачу
-   через отдельный **публичный** репозиторий/ветку только для картинок, либо
-   сделайте публичной эту конкретную ветку/папку. Простейший вариант — держать
-   картинки в отдельном публичном репозитории `ecoute-ukraine-images`, а код
-   (`poster_action.py`, токены, очередь) — в приватном.
-5. В `posts_queue.json` замените `Reneval-of-Ukraine/SMM-Ecoute-Ukraine` в каждом `image_url`/`ig_image_urls`
-   на реальные `<ваш GitHub логин>/<название репозитория с картинками>`.
+Репозиторий создан и заполнен: `github.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine`
+(публичный — это нужно, чтобы Facebook/Instagram API могли скачивать картинки
+по прямой ссылке `raw.githubusercontent.com`). Все файлы кода и все 55 картинок
+в `images/<Content ID>/...` уже загружены.
+
+Если понадобится загружать картинки заново (например, для новых постов) —
+загружайте по одной подпапке за раз через **Add file → Upload files**: GitHub
+web-загрузчик отказывает с ошибкой "The file is too large" при попытке
+закинуть больше ~100 МБ суммарно за один коммит, а одна подпапка Content ID
+(1-6 картинок, обычно 1-15 МБ) всегда укладывается с запасом.
 
 ## Шаг 2 — секреты в GitHub
 
@@ -94,9 +93,12 @@ Read and write.
 провалившихся, затем запустите workflow вручную (не ждите ближайший cron —
 возможна гонка с автокоммитом).
 
-## Список изображений для стартовых 8 постов
+## Список изображений (все 23 поста, 55 файлов) — уже загружены
+
+Полный актуальный список также лежит в `IMAGES_NEEDED.txt` рядом с этим README.
 
 ```
+images/TG-17/EU_UA_TG_TG-17_Monthly_recap_1080x1350.png
 images/UA-01/EU_UA_IG_UA-01_S01_Cover_Koly_tryvoha_nakryvaie_1080x1350.png
 images/UA-01/EU_UA_IG_UA-01_S02_Povilno_vydykhnit_1080x1350.png
 images/UA-01/EU_UA_IG_UA-01_S03_Nazvit_5_predmetiv_1080x1350.png
@@ -104,23 +106,57 @@ images/UA-01/EU_UA_IG_UA-01_S04_Vidchuyte_oporu_pid_nohamy_1080x1350.png
 images/UA-01/EU_UA_IG_UA-01_S05_Ruka_na_hrudy_abo_zhyvit_1080x1350.png
 images/UA-01/EU_UA_IG_UA-01_S06_Tse_myne_Zberezhit_sobi_1080x1350.png
 images/UA-02/EU_UA_TG_UA-02_Malenka_praktyka_zazemlennya_1080x1350.png
+images/FR-01-FB/EU_FR_FB_FR-01-FB_Sante_mentale_reste_une_priorite_1200x1500.png
+images/UA-04/EU_UA_TG_UA-04_Tilo_tezh_vtomliuietsia_vid_stresu_1080x1350.png
 images/UA-03/EU_UA_IG_UA-03_S01_Cover_Mif_ya_mayu_vporatysia_sam_sama_1080x1350.png
 images/UA-03/EU_UA_IG_UA-03_S02_Potreba_v_pidtrymtsi_ne_slabkist_1080x1350.png
 images/UA-03/EU_UA_IG_UA-03_S03_Ne_zobovyazani_naodyntsi_1080x1350.png
 images/UA-03/EU_UA_IG_UA-03_S04_Pidtrymka_pochynaietsia_z_maloho_1080x1350.png
 images/UA-03/EU_UA_IG_UA-03_S05_Prosyty_pro_dopomohu_normalno_1080x1350.png
-images/FB-UA-01/EU_UA_FB_FB-UA-01_Ecoute_Ukraine_poruch_1200x630_correct_logo.png
-images/UA-04/EU_UA_TG_UA-04_Tilo_tezh_vtomliuietsia_vid_stresu_1080x1350.png
-images/FR-01-FB/EU_FR_FB_FR-01-FB_Sante_mentale_reste_une_priorite_1200x1500.png
+images/UA-08/EU_UA_TG_UA-08_Miaka_praktyka_dykhannia_1080x1350.png
+images/FR-03/EU_FR_FB_FR-03_Lexil_ne_se_voit_pas_toujours_1200x630.png
 images/UA-05/EU_UA_IG_UA-05_S01_Cover_Yak_pidtrymaty_dytynu_1080x1350.png
 images/UA-05/EU_UA_IG_UA-05_S02_Dity_ne_zavzhdy_hovoriat_1080x1350.png
 images/UA-05/EU_UA_IG_UA-05_S03_Perdbachuvanist_dopomahaie_1080x1350.png
 images/UA-05/EU_UA_IG_UA-05_S04_Menshe_tysku_bilshe_prysutnosti_1080x1350.png
 images/UA-05/EU_UA_IG_UA-05_S05_Dozvolte_emotsiiam_buty_bez_osudu_1080x1350.png
 images/UA-05/EU_UA_IG_UA-05_S06_Doroslyi_yakyi_poruch_1080x1350.png
+images/UA-10/EU_UA_TG_UA-10_Shcho_zrobyty_koly_vazhko_zasnuty_1080x1350.png
+images/FR-05/EU_FR_FB_FR-05_Soutien_durable_partenariats_1200x1500.png
+images/UA-12/EU_UA_TG_UA-12_Koly_khochetsia_movchaty_1080x1350.png
+images/UA-07/EU_UA_IG_UA-07_S01_Cover_Adaptatsiia_u_Frantsii_1080x1350.png
+images/UA-07/EU_UA_IG_UA-07_S02_Bezpeka_ne_zavzhdy_prynosyt_polehshennia_1080x1350.png
+images/UA-07/EU_UA_IG_UA-07_S03_Nova_mova_novi_pravyla_novyi_temp_1080x1350.png
+images/UA-07/EU_UA_IG_UA-07_S04_Samotnist_i_provyna_1080x1350.png
+images/UA-07/EU_UA_IG_UA-07_S05_Adaptatsiia_tse_protses_1080x1350.png
+images/UA-07/EU_UA_IG_UA-07_S06_Budte_do_sebe_miakshymy_1080x1350.png
+images/UA-14/EU_UA_TG_UA-14_Malenka_opora_na_sohodni_1080x1350.png
+images/FR-07/EU_FR_FB_FR-07_Lexil_traces_invisibles_1200x1500.png
+images/UA-09/EU_UA_IG_UA-09_S01_Cover_5_fraz_yaki_pidtrymuiut_1080x1350.png
+images/UA-09/EU_UA_IG_UA-09_S02_Ya_poruch_1080x1350.png
+images/UA-09/EU_UA_IG_UA-09_S03_Te_shcho_ty_vidchuvaiesh_maie_sens_1080x1350.png
+images/UA-09/EU_UA_IG_UA-09_S04_Ty_ne_musysh_prokhodyty_tse_naodyntsi_1080x1350.png
+images/UA-09/EU_UA_IG_UA-09_S05_Chym_ya_mozhu_tebe_pidtrymaty_1080x1350.png
+images/UA-09/EU_UA_IG_UA-09_S06_Tobi_ne_treba_buty_sylnym_shchomyti_1080x1350.png
+images/FB-BI-01/EU_MIXED_FB_FB-BI-01_Pidtrymka_Solidarite_1200x1500.png
+images/UA-13/EU_UA_IG_UA-13_S01_Cover_Yak_zrozumity_potribna_pidtrymka_1080x1350.png
+images/UA-13/EU_UA_IG_UA-13_S02_Vazhche_spravliatysia_1080x1350.png
+images/UA-13/EU_UA_IG_UA-13_S03_Tryvoha_napruha_vtoma_1080x1350.png
+images/UA-13/EU_UA_IG_UA-13_S04_Khochetsia_viddalytysia_i_movchaty_1080x1350.png
+images/UA-13/EU_UA_IG_UA-13_S05_Dumka_pro_pidtrymku_prynosyt_polehshennia_1080x1350.png
+images/FB-UA-01/EU_UA_FB_FB-UA-01_Ecoute_Ukraine_poruch_1200x630_correct_logo.png
+images/UA-15/EU_UA_IG_UA-15_S01_5_povilnykh_vdykhiv_i_vydykhiv_1080x1350.png
+images/UA-15/EU_UA_IG_UA-15_S02_Vypiyte_sklianku_vody_1080x1350.png
+images/UA-15/EU_UA_IG_UA-15_S03_Vidiydit_vid_ekrana_1080x1350.png
+images/UA-15/EU_UA_IG_UA-15_S04_Skazhit_sobi_odnu_dobru_frazu_1080x1350.png
+images/UA-15/EU_UA_IG_UA-15_S05_Malenkyi_vidpochynok_1080x1350.png
 images/FB-UA-02/EU_UA_FB_FB-UA-02_Pidtrymka_ditei_pochynaietsia_z_prostykh_rechei_1200x1500.png
+images/FB-UA-03/EU_UA_FB_FB-UA-03_Pidtrymka_poruch_daleko_vid_domu_1200x1500.png
+images/FB-UA-04/EU_UA_FB_FB-UA-04_Ne_vse_treba_vytrymuvaty_naodyntsi_1200x1500.png
 ```
 
-Дальше очередь можно расширять теми же полями — весь остальной контент уже
-готов в `Month_1/`, просто добавляйте новые записи в `posts_queue.json` по
-образцу существующих.
+Дальше очередь можно расширять теми же полями — Stories (STORY-*) и видео
+(VIDEO-*) из `Month_1/` сюда сознательно не включены, для них нужна отдельная
+логика в `poster_action.py` (другой API-эндпоинт). Новый контент на следующий
+месяц можно добавлять вручную по образцу существующих записей, либо перезапустить
+`build_queue.py` на обновлённой папке `Month_1/`.
