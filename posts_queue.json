@@ -1,9 +1,20 @@
 [
   {
-    "id": 1,
-    "title": "UA-01 — Коли тривога накриває (Instagram carousel)",
-    "platforms": ["ig"],
-    "scheduled_time": "2026-08-03 10:00",
+    "title": "TG-17 — Monthly recap",
+    "platforms": [
+      "tg"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/TG-17/EU_UA_TG_TG-17_Monthly_recap_1080x1350.png",
+    "tg_text": "Підсумок місяця.\n\nЦього місяця ми говорили про підтримку, тривогу, втому, тіло, дітей, адаптацію і маленькі щоденні опори.\n\nІноді підтримка — це не велике рішення, а маленький крок: зупинитися, помітити себе, назвати те, що відчуваєш, звернутися по допомогу або просто не вимагати від себе ідеальності.\n\nНе обов’язково триматися ідеально.  \nВажливо мати простір, де можна видихнути.\n\nÉcoute Ukraine поруч.\n\n---",
+    "scheduled_time": "2026-08-03 09:00",
+    "id": 1
+  },
+  {
+    "title": "UA-01 — Koly tryvoha nakryvaie",
+    "platforms": [
+      "ig"
+    ],
     "published": false,
     "ig_image_urls": [
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-01/EU_UA_IG_UA-01_S01_Cover_Koly_tryvoha_nakryvaie_1080x1350.png",
@@ -13,23 +24,49 @@
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-01/EU_UA_IG_UA-01_S05_Ruka_na_hrudy_abo_zhyvit_1080x1350.png",
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-01/EU_UA_IG_UA-01_S06_Tse_myne_Zberezhit_sobi_1080x1350.png"
     ],
-    "ig_caption": "Іноді тривога приходить раптово — без видимої причини, без попередження, навіть тоді, коли навколо все ніби спокійно.\n\nЦе не означає, що з вами щось не так. Часто так нервова система реагує на тривалий стрес, перевтому або емоційне виснаження.\n\nЯкщо відчуваєте, що тривога “накриває”, спробуйте зробити щось дуже просте:\n\n1. Повільно видихніть.\n2. Назвіть 5 предметів навколо.\n3. Відчуйте опору під ногами.\n4. Покладіть руку на груди або живіт.\n5. Скажіть собі: “Це мине”.\n\nМаленькі дії не вирішують усе одразу, але можуть допомогти повернути відчуття опори.\n\nЗбережіть собі — можливо, ці кроки стануть вам у пригоді в потрібний момент.",
-    "ig_hashtags": "#ÉcouteUkraine #психологічнапідтримка #турботапросебе #ментальнездоровя #українціуфранції #тривога #психологія #підтримка #самопідтримка"
+    "ig_caption": "Іноді тривога приходить раптово — без видимої причини, без попередження, навіть тоді, коли навколо все ніби спокійно.\n\nЦе не означає, що з вами щось не так. Часто так нервова система реагує на тривалий стрес, перевтому або емоційне виснаження.\n\nЯкщо відчуваєте, що тривога “накриває”, спробуйте зробити щось дуже просте:\n\n1. Повільно видихніть.  \n2. Назвіть 5 предметів навколо.  \n3. Відчуйте опору під ногами.  \n4. Покладіть руку на груди або живіт.  \n5. Скажіть собі: “Це мине”.\n\nМаленькі дії не вирішують усе одразу, але можуть допомогти повернути відчуття опори.\n\nЗбережіть собі — можливо, ці кроки стануть вам у пригоді в потрібний момент.\n\n---",
+    "ig_hashtags": "#ÉcouteUkraine #психологічнапідтримка #турботапросебе #ментальнездоровя #українціуфранції #тривога #психологія #підтримка #самопідтримка\n\n---",
+    "scheduled_time": "2026-08-03 10:00",
+    "id": 2
   },
   {
-    "id": 2,
-    "title": "UA-02 — Маленька практика заземлення (Telegram)",
-    "platforms": ["tg"],
-    "scheduled_time": "2026-08-04 09:00",
+    "title": "UA-02 — Malenka praktyka zazemlennya",
+    "platforms": [
+      "tg"
+    ],
     "published": false,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-02/EU_UA_TG_UA-02_Malenka_praktyka_zazemlennya_1080x1350.png",
-    "tg_text": "Сьогодні — маленька практика, яка може допомогти, якщо вас “розгойдує” тривога.\n\nСпробуйте вправу 5–4–3–2–1:\n\n5 речей, які ви бачите;\n4 речі, які можете відчути тілом;\n3 звуки, які чуєте;\n2 запахи, які помічаєте;\n1 річ, за яку можете подякувати собі просто зараз.\n\nЦя вправа не “скасовує” тривогу, але може м’яко повернути увагу в “тут і зараз”.\n\nБережіть себе. Маленькі кроки теж важливі."
+    "tg_text": "Сьогодні — маленька практика, яка може допомогти, якщо вас “розгойдує” тривога.\n\nСпробуйте вправу **5–4–3–2–1**:\n\n**5** речей, які ви бачите;  \n**4** речі, які можете відчути тілом;  \n**3** звуки, які чуєте;  \n**2** запахи, які помічаєте;  \n**1** річ, за яку можете подякувати собі просто зараз.\n\nЦя вправа не “скасовує” тривогу, але може м’яко повернути увагу в **“тут і зараз”**.\n\nБережіть себе. Маленькі кроки теж важливі.\n\n---",
+    "scheduled_time": "2026-08-04 09:00",
+    "id": 3
   },
   {
-    "id": 3,
-    "title": "UA-03 — Міф: Я маю впоратися сам/сама (Instagram carousel)",
-    "platforms": ["ig"],
-    "scheduled_time": "2026-08-05 10:00",
+    "title": "FR-01-FB — Sante mentale reste une priorite",
+    "platforms": [
+      "fb"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FR-01-FB/EU_FR_FB_FR-01-FB_Sante_mentale_reste_une_priorite_1200x1500.png",
+    "fb_text": "La santé mentale des Ukrainiens reste une priorité.\n\nLa guerre et l’exil ne laissent pas seulement des conséquences visibles.  \nIls fragilisent aussi le lien, la stabilité émotionnelle, le sentiment de sécurité et la capacité à se reconstruire dans la durée.\n\nÉcoute Ukraine construit des partenariats pour soutenir durablement les Ukrainiens touchés par la guerre et l’exil.\n\nNotre approche repose sur une action humaine, structurée et durable :\n- écoute ;\n- présence ;\n- accompagnement ;\n- coopération ;\n- mobilisation de ressources.\n\nSoutenir Écoute Ukraine, ce n’est pas répondre à un appel à la pitié.  \nC’est rejoindre une mission franco-ukrainienne d’utilité sociale.\n\n**Devenir partenaire / proposer un mécénat / aide en nature :**  \ncontact@ecouteukraine.fr\n\n**Faire un don :**  \nhttps://www.paypal.com/donate/?hosted_button_id=QPG3ZYZVHPKZC\n\n---",
+    "scheduled_time": "2026-08-04 15:00",
+    "id": 4
+  },
+  {
+    "title": "UA-04 — Tilo tezh vtomliuietsia vid stresu",
+    "platforms": [
+      "tg"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-04/EU_UA_TG_UA-04_Tilo_tezh_vtomliuietsia_vid_stresu_1080x1350.png",
+    "tg_text": "Стрес живе не лише в думках. Часто він накопичується в тілі:\n\n- у стиснених щелепах;\n- у плечах;\n- у напрузі в шиї;\n- у відчутті “не можу розслабитися”;\n- у постійній втомі.\n\nСьогодні спробуйте дуже просту річ:\n\n1. Підніміть плечі вгору.\n2. Затримайте на 3 секунди.\n3. Повільно опустіть.\n4. Повторіть 3 рази.\n\nІноді тілу потрібно нагадати, що воно може відпускати напругу.\n\nБережіть себе. Маленька пауза теж має значення.\n\n---",
+    "scheduled_time": "2026-08-05 09:00",
+    "id": 5
+  },
+  {
+    "title": "UA-03 — Mif ya mayu vporatysia sam sama",
+    "platforms": [
+      "ig"
+    ],
     "published": false,
     "ig_image_urls": [
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-03/EU_UA_IG_UA-03_S01_Cover_Mif_ya_mayu_vporatysia_sam_sama_1080x1350.png",
@@ -38,41 +75,38 @@
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-03/EU_UA_IG_UA-03_S04_Pidtrymka_pochynaietsia_z_maloho_1080x1350.png",
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-03/EU_UA_IG_UA-03_S05_Prosyty_pro_dopomohu_normalno_1080x1350.png"
     ],
-    "ig_caption": "Багато хто звик думати:\n“Я маю триматися”,\n“Не можна навантажувати інших”,\n“Треба впоратися самостійно”.\n\nАле потреба в підтримці — це не слабкість.\n\nКоли ми довго живемо в напрузі, невизначеності, тривозі або втомі, просити про допомогу — це не ознака безсилля. Це спосіб подбати про себе.\n\nПідтримка може починатися з малого:\n\n- написати близькій людині;\n- сказати: “мені зараз важко”;\n- попросити побути поруч;\n- звернутися по професійну допомогу;\n- дозволити собі не бути сильним/сильною щодня.\n\nВи не зобов’язані проходити складне наодинці.\n\nЗбережіть цей пост або поділіться з тим, кому зараз важливо це почути.",
-    "ig_hashtags": "#ÉcouteUkraine #психологічнапідтримка #турботапросебе #ментальнездоровя #українціуфранції #підтримка #самопідтримка"
+    "ig_caption": "Багато хто звик думати:  \n“Я маю триматися”,  \n“Не можна навантажувати інших”,  \n“Треба впоратися самостійно”.\n\nАле потреба в підтримці — це не слабкість.\n\nКоли ми довго живемо в напрузі, невизначеності, тривозі або втомі, просити про допомогу — це не ознака безсилля. Це спосіб подбати про себе.\n\nПідтримка може починатися з малого:\n\n- написати близькій людині;\n- сказати: “мені зараз важко”;\n- попросити побути поруч;\n- звернутися по професійну допомогу;\n- дозволити собі не бути сильним/сильною щодня.\n\nВи не зобов’язані проходити складне наодинці.\n\nЗбережіть цей пост або поділіться з тим, кому зараз важливо це почути.\n\n---",
+    "ig_hashtags": "#ÉcouteUkraine #психологічнапідтримка #турботапросебе #ментальнездоровя #українціуфранції #підтримка #психологія #неодин\n```\n\n---",
+    "scheduled_time": "2026-08-05 10:00",
+    "id": 6
   },
   {
-    "id": 4,
-    "title": "FB-UA-01 — Écoute Ukraine поруч (Facebook UA)",
-    "platforms": ["fb"],
-    "scheduled_time": "2026-08-05 15:00",
+    "title": "UA-08 — Miaka praktyka dykhannia",
+    "platforms": [
+      "tg"
+    ],
     "published": false,
-    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FB-UA-01/EU_UA_FB_FB-UA-01_Ecoute_Ukraine_poruch_1200x630_correct_logo.png",
-    "fb_text": "В Écoute Ukraine ми віримо, що підтримка починається не з великих слів, а з присутності, уважності та безпечного середовища.\n\nМи ділимося простими психологічними інструментами, тілесними практиками, темами адаптації та бережної підтримки для українців, які живуть досвідом війни, переміщення та змін.\n\nБути втомленим, розгубленим, напруженим або емоційно виснаженим — не соромно.\n\nПросити про підтримку — нормально.\n\nСлідкуйте за нашими публікаціями та діліться ними з тими, кому це може бути важливо."
-  },
-  {
-    "id": 5,
-    "title": "UA-04 — Тіло теж втомлюється від стресу (Telegram)",
-    "platforms": ["tg"],
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-08/EU_UA_TG_UA-08_Miaka_praktyka_dykhannia_1080x1350.png",
+    "tg_text": "Якщо зараз у вас напружений день, спробуйте коротку практику дихання.\n\nНа 2 хвилини:\n\n- вдих на 4 рахунки;\n- пауза на 1;\n- видих на 6.\n\nНе намагайтеся “дихати ідеально”.  \nПросто дозвольте собі трохи сповільнитися.\n\nІноді саме довший видих може допомогти тілу відчути трохи більше спокою.\n\nСпробуйте перед сном або перед важливою розмовою.\n\n---",
     "scheduled_time": "2026-08-06 09:00",
-    "published": false,
-    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-04/EU_UA_TG_UA-04_Tilo_tezh_vtomliuietsia_vid_stresu_1080x1350.png",
-    "tg_text": "Стрес живе не лише в думках. Часто він накопичується в тілі:\n\n- у стиснених щелепах;\n- у плечах;\n- у напрузі в шиї;\n- у відчутті “не можу розслабитися”;\n- у постійній втомі.\n\nСьогодні спробуйте дуже просту річ:\n\n1. Підніміть плечі вгору.\n2. Затримайте на 3 секунди.\n3. Повільно опустіть.\n4. Повторіть 3 рази.\n\nІноді тілу потрібно нагадати, що воно може відпускати напругу.\n\nБережіть себе. Маленька пауза теж має значення."
+    "id": 7
   },
   {
-    "id": 6,
-    "title": "FR-01-FB — La santé mentale reste une priorité (Facebook FR fundraising)",
-    "platforms": ["fb"],
+    "title": "FR-03 — Lexil ne se voit pas toujours",
+    "platforms": [
+      "fb"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FR-03/EU_FR_FB_FR-03_Lexil_ne_se_voit_pas_toujours_1200x630.png",
+    "fb_text": "L’exil ne se voit pas toujours.\n\nIl peut se cacher derrière le silence, la fatigue, l’isolement, la difficulté à demander de l’aide ou à reprendre confiance.\n\nPour de nombreuses personnes ukrainiennes, la guerre ne s’arrête pas au moment où elles arrivent en sécurité. Le corps, la mémoire et les émotions continuent parfois de porter ce qui a été vécu.\n\nÉcoute Ukraine agit pour offrir un espace d’écoute, de soutien et d’accompagnement humain aux personnes qui en ont besoin.\n\nVotre soutien nous aide à faire exister cette présence.\n\n**Faire un don :**  \nhttps://www.paypal.com/donate/?hosted_button_id=QPG3ZYZVHPKZC\n\n**Mécénat, partenariat ou aide en nature :**  \ncontact@ecouteukraine.fr\n\n---",
     "scheduled_time": "2026-08-06 15:00",
-    "published": false,
-    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FR-01-FB/EU_FR_FB_FR-01-FB_Sante_mentale_reste_une_priorite_1200x1500.png",
-    "fb_text": "La santé mentale des Ukrainiens reste une priorité.\n\nLa guerre et l’exil ne laissent pas seulement des conséquences visibles. Ils fragilisent aussi le lien, la stabilité émotionnelle, le sentiment de sécurité et la capacité à se reconstruire dans la durée.\n\nÉcoute Ukraine construit des partenariats pour soutenir durablement les Ukrainiens touchés par la guerre et l’exil.\n\nNotre approche repose sur une action humaine, structurée et durable :\n- écoute ;\n- présence ;\n- accompagnement ;\n- coopération ;\n- mobilisation de ressources.\n\nSoutenir Écoute Ukraine, ce n’est pas répondre à un appel à la pitié. C’est rejoindre une mission franco-ukrainienne d’utilité sociale.\n\n💛 Faire un don : https://www.paypal.com/donate/?hosted_button_id=QPG3ZYZVHPKZC\n✉️ Devenir partenaire / mécénat : contact@ecouteukraine.fr"
+    "id": 8
   },
   {
-    "id": 7,
-    "title": "UA-05 — Як підтримати дитину, яка переживає стрес (Instagram carousel)",
-    "platforms": ["ig"],
-    "scheduled_time": "2026-08-07 10:00",
+    "title": "UA-05 — Yak pidtrymaty dytynu u stresi",
+    "platforms": [
+      "ig"
+    ],
     "published": false,
     "ig_image_urls": [
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-05/EU_UA_IG_UA-05_S01_Cover_Yak_pidtrymaty_dytynu_1080x1350.png",
@@ -82,16 +116,193 @@
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-05/EU_UA_IG_UA-05_S05_Dozvolte_emotsiiam_buty_bez_osudu_1080x1350.png",
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-05/EU_UA_IG_UA-05_S06_Doroslyi_yakyi_poruch_1080x1350.png"
     ],
-    "ig_caption": "Діти не завжди говорять про стрес словами.\n\nІноді він проявляється через дратівливість, замкнутість, сльози, проблеми зі сном, втому, труднощі з увагою або раптові зміни в поведінці.\n\nУ такі моменти дитині не завжди потрібні “правильні слова”. Часто їй потрібен дорослий, який поруч.\n\nЩо може допомогти:\n\n- стабільний ритм дня;\n- прості й передбачувані пояснення;\n- менше тиску й більше спокійної присутності;\n- дозвіл на емоції без осуду;\n- тілесна й емоційна безпека;\n- дорослий, який не вимагає “негайно заспокоїтися”.\n\nПідтримка не потребує ідеальності. Спокійна присутність, увага і турбота вже можуть бути великою опорою.\n\nЗбережіть цей пост — можливо, він стане в пригоді в потрібний момент.",
-    "ig_hashtags": "#ÉcouteUkraine #психологічнапідтримка #діти #батькиуФранції #українціуфранції #підтримка"
+    "ig_caption": "Діти не завжди говорять про стрес словами.\n\nІноді він проявляється через дратівливість, замкнутість, сльози, проблеми зі сном, втому, труднощі з увагою або раптові зміни в поведінці.\n\nУ такі моменти дитині не завжди потрібні “правильні слова”. Часто їй потрібен дорослий, який поруч.\n\nЩо може допомогти:\n\n- стабільний ритм дня;\n- прості й передбачувані пояснення;\n- менше тиску й більше спокійної присутності;\n- дозвіл на емоції без осуду;\n- тілесна й емоційна безпека;\n- дорослий, який не вимагає “негайно заспокоїтися”.\n\nФрази на кшталт “не плач” або “заспокойся” не завжди допомагають. Іноді краще сказати:\n\n“Я поруч”.  \n“Я бачу, що тобі важко”.  \n“Ти можеш сказати мені, що відчуваєш”.  \n“Твої почуття важливі”.\n\nПідтримка не потребує ідеальності. Спокійна присутність, увага і турбота вже можуть бути великою опорою.\n\nЗбережіть цей пост — можливо, він стане в пригоді в потрібний момент.\n\n---",
+    "ig_hashtags": "#ÉcouteUkraine #психологічнапідтримка #діти #батькам #стресудитини #ментальнездоровя #українціуфранції #турботапросебе\n```\n\n---",
+    "scheduled_time": "2026-08-07 10:00",
+    "id": 9
   },
   {
-    "id": 8,
-    "title": "FB-UA-02 — Підтримка дітей починається з простих речей (Facebook UA)",
-    "platforms": ["fb"],
-    "scheduled_time": "2026-08-08 12:00",
+    "title": "UA-10 — Shcho zrobyty koly vazhko zasnuty",
+    "platforms": [
+      "tg"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-10/EU_UA_TG_UA-10_Shcho_zrobyty_koly_vazhko_zasnuty_1080x1350.png",
+    "tg_text": "Коли важко заснути, не завжди допомагає наказати собі: “треба спати”.\n\nІноді краще не тиснути на себе, а зробити кілька м’яких кроків, які можуть допомогти тілу й думкам трохи заспокоїтися.\n\nСпробуйте:\n\n- приглушити світло;\n- відкласти телефон;\n- зробити довший видих;\n- записати думки, які крутяться в голові;\n- нагадати собі: “Ця ніч мине”.\n\nНе обов’язково заснути одразу.  \nНе обов’язково зробити все ідеально.\n\nІноді достатньо просто трохи більше турботи до себе.\n\n---",
+    "scheduled_time": "2026-08-08 09:00",
+    "id": 10
+  },
+  {
+    "title": "FR-05 — Soutien durable partenariats",
+    "platforms": [
+      "fb"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FR-05/EU_FR_FB_FR-05_Soutien_durable_partenariats_1200x1500.png",
+    "fb_text": "Le soutien durable commence par des partenariats.\n\nÉcoute Ukraine construit des liens de confiance pour accompagner durablement les personnes touchées par la guerre, l’exil et leurs conséquences.\n\nNotre action ne repose pas sur la pitié.  \nElle repose sur la coopération, la confiance, la responsabilité et la capacité à construire des réponses utiles dans la durée.\n\nEntreprises, fondations, mécènes, collectivités, partenaires associatifs : plusieurs formes d’engagement sont possibles.\n\n- mécénat ;\n- expertise ;\n- mise à disposition d’espaces ;\n- aide en nature ;\n- réseau ;\n- soutien financier ;\n- coopération sur des projets.\n\nDevenir partenaire d’Écoute Ukraine, c’est contribuer à une mission franco-ukrainienne d’utilité sociale, humaine et durable.\n\n**Devenir partenaire :**  \ncontact@ecouteukraine.fr\n\n---",
+    "scheduled_time": "2026-08-08 15:00",
+    "id": 11
+  },
+  {
+    "title": "UA-12 — Koly khochetsia movchaty",
+    "platforms": [
+      "tg"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-12/EU_UA_TG_UA-12_Koly_khochetsia_movchaty_1080x1350.png",
+    "tg_text": "Іноді хочеться мовчати.\n\nНе пояснювати, не відповідати одразу, не підбирати слова, не бути “сильними” весь час.\n\nЦе нормально.\n\nТиша теж може бути способом подбати про себе.\n\nВи не зобов’язані все пояснювати, якщо зараз немає сил.  \nВи не зобов’язані триматися ідеально.\n\nМожна просто побути в паузі.  \nМожна повернутися до розмови пізніше.  \nМожна сказати: “Зараз мені потрібно трохи тиші”.\n\nМи поруч.\n\n---",
+    "scheduled_time": "2026-08-10 09:00",
+    "id": 12
+  },
+  {
+    "title": "UA-07 — Adaptatsiia u Frantsii",
+    "platforms": [
+      "ig"
+    ],
+    "published": false,
+    "ig_image_urls": [
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-07/EU_UA_IG_UA-07_S01_Cover_Adaptatsiia_u_Frantsii_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-07/EU_UA_IG_UA-07_S02_Bezpeka_ne_zavzhdy_prynosyt_polehshennia_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-07/EU_UA_IG_UA-07_S03_Nova_mova_novi_pravyla_novyi_temp_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-07/EU_UA_IG_UA-07_S04_Samotnist_i_provyna_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-07/EU_UA_IG_UA-07_S05_Adaptatsiia_tse_protses_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-07/EU_UA_IG_UA-07_S06_Budte_do_sebe_miakshymy_1080x1350.png"
+    ],
+    "ig_caption": "Іноді людина опиняється у відносній безпеці, але полегшення не приходить одразу. І це нормально.\n\nАдаптація в новій країні може бути непростою через:\n\n- мовний бар’єр;\n- втрату звичного середовища;\n- відчуття самотності;\n- провину перед тими, хто залишився;\n- нові правила й новий темп життя;\n- втому від постійного “пристосування”.\n\nВажливо пам’ятати: безпека не скасовує пережитий стрес.  \nАдаптація — це процес, а не обов’язок швидко “прийти до норми”.\n\nБудьте до себе м’якшими.\n\nЗбережіть цей пост або поділіться з тим, кому зараз важливо почути ці слова.\n\n---",
+    "ig_hashtags": "#EcouteUkraine #психологічнапідтримка #адаптаціяуФранції #українціуФранції #підтримка #ментальнездоровя #еміграція #українцізакордоном\n```\n\n---",
+    "scheduled_time": "2026-08-10 10:00",
+    "id": 13
+  },
+  {
+    "title": "UA-14 — Malenka opora na sohodni",
+    "platforms": [
+      "tg"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-14/EU_UA_TG_UA-14_Malenka_opora_na_sohodni_1080x1350.png",
+    "tg_text": "Не обов’язково робити все одразу.\n\nІноді достатньо обрати одну маленьку дію, яка трохи повертає відчуття опори.\n\nСьогодні це може бути:\n\n- повільний видих;\n- склянка води;\n- коротка прогулянка;\n- повідомлення близькій людині.\n\nНе все одразу.  \nЛише один маленький крок.\n\nПіклування про себе може бути дуже простим.\n\n---",
+    "scheduled_time": "2026-08-11 09:00",
+    "id": 14
+  },
+  {
+    "title": "FR-07 — Lexil traces invisibles",
+    "platforms": [
+      "fb"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FR-07/EU_FR_FB_FR-07_Lexil_traces_invisibles_1200x1500.png",
+    "fb_text": "L’exil laisse aussi des traces invisibles.\n\nLa fatigue, l’isolement, l’adaptation permanente, la perte de repères ou l’inquiétude pour les proches peuvent fragiliser l’équilibre intérieur.\n\nCes réalités ne se voient pas toujours.  \nElles ne font pas forcément de bruit.  \nMais elles demandent une présence, une écoute et des réponses durables.\n\nÉcoute Ukraine construit des partenariats pour accompagner les personnes touchées par la guerre, l’exil et leurs conséquences.\n\nSoutenir notre action, ce n’est pas répondre à un appel à la pitié.  \nC’est contribuer à une solidarité digne, structurée et humaine.\n\n**Devenir partenaire :**  \ncontact@ecouteukraine.fr\n\n---",
+    "scheduled_time": "2026-08-11 15:00",
+    "id": 15
+  },
+  {
+    "title": "UA-09 — 5 fraz yaki pidtrymuiut",
+    "platforms": [
+      "ig"
+    ],
+    "published": false,
+    "ig_image_urls": [
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-09/EU_UA_IG_UA-09_S01_Cover_5_fraz_yaki_pidtrymuiut_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-09/EU_UA_IG_UA-09_S02_Ya_poruch_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-09/EU_UA_IG_UA-09_S03_Te_shcho_ty_vidchuvaiesh_maie_sens_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-09/EU_UA_IG_UA-09_S04_Ty_ne_musysh_prokhodyty_tse_naodyntsi_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-09/EU_UA_IG_UA-09_S05_Chym_ya_mozhu_tebe_pidtrymaty_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-09/EU_UA_IG_UA-09_S06_Tobi_ne_treba_buty_sylnym_shchomyti_1080x1350.png"
+    ],
+    "ig_caption": "Коли близькій людині важко, нам часто хочеться швидко її заспокоїти.\n\nМи можемо автоматично сказати:  \n“Не хвилюйся”,  \n“Все буде добре”,  \n“Не думай про це”.\n\nАле іноді такі слова не підтримують, а навпаки — залишають людину сам на сам зі своїм станом.\n\nПідтримка не завжди потребує правильних порад.  \nЧасто вона починається з простих фраз:\n\n1. “Я поруч.”\n2. “Те, що ти відчуваєш, має сенс.”\n3. “Ти не мусиш проходити це наодинці.”\n4. “Чим я можу тебе підтримати саме зараз?”\n5. “Тобі не треба бути сильним чи сильною щомиті.”\n\nІноді найкраща підтримка — не виправляти, а бути поруч.\n\nЗбережіть цей пост або поділіться з тим, хто хоче підтримувати дбайливо.\n\n---",
+    "ig_hashtags": "#EcouteUkraine #психологічнапідтримка #підтримка #ментальнездоровя #українціуФранції #українцізакордоном #турбота #емоційнапідтримка\n```\n\n---",
+    "scheduled_time": "2026-08-12 10:00",
+    "id": 16
+  },
+  {
+    "title": "FB-BI-01 — Pidtrymka Solidarite",
+    "platforms": [
+      "fb"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FB-BI-01/EU_MIXED_FB_FB-BI-01_Pidtrymka_Solidarite_1200x1500.png",
+    "fb_text": "Підтримка — це не завжди про великі слова.  \nІноді це простір, де людину чують, не знецінюють і допомагають знайти наступний крок.\n\nSolidarité, ce n’est pas seulement un mot.  \nC’est une présence, une écoute et une manière de construire ensemble un espace où chacun peut trouver un appui.\n\nÉcoute Ukraine — поруч із тими, кому потрібна опора.  \nAux côtés des personnes qui ont besoin d’être accompagnées.\n\n---",
+    "scheduled_time": "2026-08-13 15:00",
+    "id": 17
+  },
+  {
+    "title": "UA-13 — Yak zrozumity shcho meni potribna pidtrymka",
+    "platforms": [
+      "ig"
+    ],
+    "published": false,
+    "ig_image_urls": [
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-13/EU_UA_IG_UA-13_S01_Cover_Yak_zrozumity_potribna_pidtrymka_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-13/EU_UA_IG_UA-13_S02_Vazhche_spravliatysia_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-13/EU_UA_IG_UA-13_S03_Tryvoha_napruha_vtoma_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-13/EU_UA_IG_UA-13_S04_Khochetsia_viddalytysia_i_movchaty_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-13/EU_UA_IG_UA-13_S05_Dumka_pro_pidtrymku_prynosyt_polehshennia_1080x1350.png"
+    ],
+    "ig_caption": "Іноді ми звикаємо триматися.\n\nЗдається, що треба ще трохи потерпіти, ще трохи зібратися, ще трохи впоратися самостійно.\n\nАле підтримка потрібна не лише тоді, коли вже зовсім немає сил.\n\nВона може бути важливою, якщо:\n\n- вам важче справлятися з тим, що раніше було посильним;\n- тривога, напруга або втома довго не відпускають;\n- хочеться віддалитися від людей і мовчати;\n- сама думка про підтримку приносить полегшення.\n\nПросити про підтримку — це не слабкість.  \nЦе спосіб подбати про себе.\n\nНе треба чекати критичної межі, щоб дозволити собі опору.\n\n---",
+    "ig_hashtags": "#EcouteUkraine #психологічнапідтримка #підтримка #ментальнездоровя #турботапросебе #українціуФранції #українцізакордоном #емоційнапідтримка\n```\n\n---",
+    "scheduled_time": "2026-08-14 10:00",
+    "id": 18
+  },
+  {
+    "title": "FB-UA-01 — Ecoute Ukraine poruch",
+    "platforms": [
+      "fb"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FB-UA-01/EU_UA_FB_FB-UA-01_Ecoute_Ukraine_poruch_1200x630_correct_logo.png",
+    "fb_text": "В Écoute Ukraine ми віримо, що підтримка починається не з великих слів, а з присутності, уважності та безпечного середовища.\n\nМи ділимося простими психологічними інструментами, тілесними практиками, темами адаптації та бережної підтримки для українців, які живуть досвідом війни, переміщення та змін.\n\nБути втомленим, розгубленим, напруженим або емоційно виснаженим — не соромно.\n\nПросити про підтримку — нормально.\n\nСлідкуйте за нашими публікаціями та діліться ними з тими, кому це може бути важливо.\n\n---",
+    "scheduled_time": "2026-08-15 15:00",
+    "id": 19
+  },
+  {
+    "title": "UA-15 — 5 sposobiv trokhy podbaty pro sebe sohodni",
+    "platforms": [
+      "ig"
+    ],
+    "published": false,
+    "ig_image_urls": [
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-15/EU_UA_IG_UA-15_S01_5_povilnykh_vdykhiv_i_vydykhiv_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-15/EU_UA_IG_UA-15_S02_Vypiyte_sklianku_vody_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-15/EU_UA_IG_UA-15_S03_Vidiydit_vid_ekrana_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-15/EU_UA_IG_UA-15_S04_Skazhit_sobi_odnu_dobru_frazu_1080x1350.png",
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-15/EU_UA_IG_UA-15_S05_Malenkyi_vidpochynok_1080x1350.png"
+    ],
+    "ig_caption": "Піклування про себе не завжди має бути великим, складним або “ідеальним”.\n\nІноді достатньо маленької дії, яка допомагає трохи повернути увагу до себе.\n\nСьогодні це може бути:\n\n- 5 повільних вдихів і видихів;\n- склянка води;\n- кілька хвилин без екрана;\n- одна добра фраза до себе;\n- маленький відпочинок.\n\nНе все одразу.  \nНе ідеально.  \nНе “як треба”.\n\nПросто один маленький крок у свій бік.\n\n---",
+    "ig_hashtags": "#EcouteUkraine #психологічнапідтримка #турботапросебе #ментальнездоровя #підтримка #українціуФранції #українцізакордоном #маленькікроки\n```\n\n---",
+    "scheduled_time": "2026-08-17 10:00",
+    "id": 20
+  },
+  {
+    "title": "FB-UA-02 — Pidtrymka ditei pochynaietsia z prostykh rechei",
+    "platforms": [
+      "fb"
+    ],
     "published": false,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FB-UA-02/EU_UA_FB_FB-UA-02_Pidtrymka_ditei_pochynaietsia_z_prostykh_rechei_1200x1500.png",
-    "fb_text": "Підтримка дітей не завжди починається з великих рішень.\n\nІноді найбільшу опору створюють дуже прості речі:\n\n- слухати без оцінок;\n- бути поруч;\n- створювати ритм і передбачуваність;\n- давати місце емоціям;\n- помічати зусилля, а не лише результат;\n- дозволяти дитині відпочивати, грати й бути собою.\n\nДитині не потрібен ідеальний дорослий.\nЇй важливо відчувати, що поруч є хтось стабільний, уважний і достатньо теплий.\n\nМаленькі кроки щодня створюють велику опору."
+    "fb_text": "Підтримка дітей не завжди починається з великих рішень.\n\nІноді найбільшу опору створюють дуже прості речі:\n\n- слухати без оцінок;\n- бути поруч;\n- створювати ритм і передбачуваність;\n- давати місце емоціям;\n- помічати зусилля, а не лише результат;\n- дозволяти дитині відпочивати, грати й бути собою.\n\nДитині не потрібен ідеальний дорослий.  \nЇй важливо відчувати, що поруч є хтось стабільний, уважний і достатньо теплий.\n\nМаленькі кроки щодня створюють велику опору.\n\n---",
+    "scheduled_time": "2026-08-18 15:00",
+    "id": 21
+  },
+  {
+    "title": "FB-UA-03 — Pidtrymka poruch daleko vid domu",
+    "platforms": [
+      "fb"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FB-UA-03/EU_UA_FB_FB-UA-03_Pidtrymka_poruch_daleko_vid_domu_1200x1500.png",
+    "fb_text": "Бути далеко від дому — це не лише про відстань.\n\nЦе про нове середовище, іншу мову, незнайомі правила, втому від адаптації й моменти, коли дуже хочеться опори.\n\nІноді здається, що потрібно впоратися самостійно.  \nАле підтримка може бути поруч навіть тоді, коли звичне життя змінилося.\n\nÉcoute Ukraine підтримує тих, хто проживає втому, тривогу, самотність, адаптацію та наслідки війни далеко від дому.\n\nВи не самі.\n\n---",
+    "scheduled_time": "2026-08-20 15:00",
+    "id": 22
+  },
+  {
+    "title": "FB-UA-04 — Ne vse treba vytrymuvaty naodyntsi",
+    "platforms": [
+      "fb"
+    ],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FB-UA-04/EU_UA_FB_FB-UA-04_Ne_vse_treba_vytrymuvaty_naodyntsi_1200x1500.png",
+    "fb_text": "Не все треба витримувати наодинці.\n\nІноді навіть одна коротка розмова, уважна присутність поруч або можливість сказати вголос «мені непросто» вже трохи полегшує стан.\n\nПідтримка не робить нас слабкими. Навпаки — вона допомагає пройти складний період м’якше, спокійніше й без зайвого виснаження.\n\nЯкщо вам зараз важко:\n- зробіть маленьку паузу;\n- визнайте свій стан без осуду;\n- зверніться до людини, якій довіряєте;\n- дозвольте собі не справлятися з усім самотужки.\n\nБережіть себе. Маленькі кроки підтримки теж важливі.\n\n---",
+    "scheduled_time": "2026-08-22 15:00",
+    "id": 23
   }
 ]
