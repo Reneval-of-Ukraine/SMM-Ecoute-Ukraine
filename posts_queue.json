@@ -4,18 +4,22 @@
     "platforms": [
       "tg"
     ],
-    "published": false,
+    "published": true,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/TG-17/EU_UA_TG_TG-17_Monthly_recap_1080x1350.png",
     "tg_text": "Підсумок місяця.\n\nЦього місяця ми говорили про підтримку, тривогу, втому, тіло, дітей, адаптацію і маленькі щоденні опори.\n\nІноді підтримка — це не велике рішення, а маленький крок: зупинитися, помітити себе, назвати те, що відчуваєш, звернутися по допомогу або просто не вимагати від себе ідеальності.\n\nНе обов’язково триматися ідеально.  \nВажливо мати простір, де можна видихнути.\n\nÉcoute Ukraine поруч.\n\n---",
     "scheduled_time": "2026-08-03 09:00",
-    "id": 1
+    "id": 1,
+    "last_run_at": "2026-08-03 08:15:45 UTC",
+    "last_result": {
+      "tg": false
+    }
   },
   {
     "title": "UA-01 — Koly tryvoha nakryvaie",
     "platforms": [
       "ig"
     ],
-    "published": false,
+    "published": true,
     "ig_image_urls": [
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-01/EU_UA_IG_UA-01_S01_Cover_Koly_tryvoha_nakryvaie_1080x1350.png",
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-01/EU_UA_IG_UA-01_S02_Povilno_vydykhnit_1080x1350.png",
@@ -27,7 +31,11 @@
     "ig_caption": "Іноді тривога приходить раптово — без видимої причини, без попередження, навіть тоді, коли навколо все ніби спокійно.\n\nЦе не означає, що з вами щось не так. Часто так нервова система реагує на тривалий стрес, перевтому або емоційне виснаження.\n\nЯкщо відчуваєте, що тривога “накриває”, спробуйте зробити щось дуже просте:\n\n1. Повільно видихніть.  \n2. Назвіть 5 предметів навколо.  \n3. Відчуйте опору під ногами.  \n4. Покладіть руку на груди або живіт.  \n5. Скажіть собі: “Це мине”.\n\nМаленькі дії не вирішують усе одразу, але можуть допомогти повернути відчуття опори.\n\nЗбережіть собі — можливо, ці кроки стануть вам у пригоді в потрібний момент.\n\n---",
     "ig_hashtags": "#ÉcouteUkraine #психологічнапідтримка #турботапросебе #ментальнездоровя #українціуфранції #тривога #психологія #підтримка #самопідтримка\n\n---",
     "scheduled_time": "2026-08-03 10:00",
-    "id": 2
+    "id": 2,
+    "last_run_at": "2026-08-03 08:15:45 UTC",
+    "last_result": {
+      "ig": false
+    }
   },
   {
     "title": "UA-02 — Malenka praktyka zazemlennya",
