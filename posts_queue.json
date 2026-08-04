@@ -42,11 +42,15 @@
     "platforms": [
       "tg"
     ],
-    "published": false,
+    "published": true,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-02/EU_UA_TG_UA-02_Malenka_praktyka_zazemlennya_1080x1350.png",
     "tg_text": "Сьогодні — маленька практика, яка може допомогти, якщо вас “розгойдує” тривога.\n\nСпробуйте вправу **5–4–3–2–1**:\n\n**5** речей, які ви бачите;  \n**4** речі, які можете відчути тілом;  \n**3** звуки, які чуєте;  \n**2** запахи, які помічаєте;  \n**1** річ, за яку можете подякувати собі просто зараз.\n\nЦя вправа не “скасовує” тривогу, але може м’яко повернути увагу в **“тут і зараз”**.\n\nБережіть себе. Маленькі кроки теж важливі.\n\n---",
     "scheduled_time": "2026-08-04 09:00",
-    "id": 3
+    "id": 3,
+    "last_run_at": "2026-08-04 07:07:55 UTC",
+    "last_result": {
+      "tg": false
+    }
   },
   {
     "title": "FR-01-FB — Sante mentale reste une priorite",
