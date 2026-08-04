@@ -57,11 +57,15 @@
     "platforms": [
       "fb"
     ],
-    "published": false,
+    "published": true,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FR-01-FB/EU_FR_FB_FR-01-FB_Sante_mentale_reste_une_priorite_1200x1500.png",
     "fb_text": "La santé mentale des Ukrainiens reste une priorité.\n\nLa guerre et l’exil ne laissent pas seulement des conséquences visibles.  \nIls fragilisent aussi le lien, la stabilité émotionnelle, le sentiment de sécurité et la capacité à se reconstruire dans la durée.\n\nÉcoute Ukraine construit des partenariats pour soutenir durablement les Ukrainiens touchés par la guerre et l’exil.\n\nNotre approche repose sur une action humaine, structurée et durable :\n- écoute ;\n- présence ;\n- accompagnement ;\n- coopération ;\n- mobilisation de ressources.\n\nSoutenir Écoute Ukraine, ce n’est pas répondre à un appel à la pitié.  \nC’est rejoindre une mission franco-ukrainienne d’utilité sociale.\n\n**Devenir partenaire / proposer un mécénat / aide en nature :**  \ncontact@ecouteukraine.fr\n\n**Faire un don :**  \nhttps://www.paypal.com/donate/?hosted_button_id=QPG3ZYZVHPKZC\n\n---",
     "scheduled_time": "2026-08-04 15:00",
-    "id": 4
+    "id": 4,
+    "last_run_at": "2026-08-04 13:50:25 UTC",
+    "last_result": {
+      "fb": false
+    }
   },
   {
     "title": "UA-04 — Tilo tezh vtomliuietsia vid stresu",
