@@ -72,18 +72,22 @@
     "platforms": [
       "tg"
     ],
-    "published": false,
+    "published": true,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-04/EU_UA_TG_UA-04_Tilo_tezh_vtomliuietsia_vid_stresu_1080x1350.png",
     "tg_text": "Стрес живе не лише в думках. Часто він накопичується в тілі:\n\n- у стиснених щелепах;\n- у плечах;\n- у напрузі в шиї;\n- у відчутті “не можу розслабитися”;\n- у постійній втомі.\n\nСьогодні спробуйте дуже просту річ:\n\n1. Підніміть плечі вгору.\n2. Затримайте на 3 секунди.\n3. Повільно опустіть.\n4. Повторіть 3 рази.\n\nІноді тілу потрібно нагадати, що воно може відпускати напругу.\n\nБережіть себе. Маленька пауза теж має значення.\n\n---",
     "scheduled_time": "2026-08-05 09:00",
-    "id": 5
+    "id": 5,
+    "last_run_at": "2026-08-05 09:17:32 UTC",
+    "last_result": {
+      "tg": false
+    }
   },
   {
     "title": "UA-03 — Mif ya mayu vporatysia sam sama",
     "platforms": [
       "ig"
     ],
-    "published": false,
+    "published": true,
     "ig_image_urls": [
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-03/EU_UA_IG_UA-03_S01_Cover_Mif_ya_mayu_vporatysia_sam_sama_1080x1350.png",
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-03/EU_UA_IG_UA-03_S02_Potreba_v_pidtrymtsi_ne_slabkist_1080x1350.png",
@@ -94,7 +98,11 @@
     "ig_caption": "Багато хто звик думати:  \n“Я маю триматися”,  \n“Не можна навантажувати інших”,  \n“Треба впоратися самостійно”.\n\nАле потреба в підтримці — це не слабкість.\n\nКоли ми довго живемо в напрузі, невизначеності, тривозі або втомі, просити про допомогу — це не ознака безсилля. Це спосіб подбати про себе.\n\nПідтримка може починатися з малого:\n\n- написати близькій людині;\n- сказати: “мені зараз важко”;\n- попросити побути поруч;\n- звернутися по професійну допомогу;\n- дозволити собі не бути сильним/сильною щодня.\n\nВи не зобов’язані проходити складне наодинці.\n\nЗбережіть цей пост або поділіться з тим, кому зараз важливо це почути.\n\n---",
     "ig_hashtags": "#ÉcouteUkraine #психологічнапідтримка #турботапросебе #ментальнездоровя #українціуфранції #підтримка #психологія #неодин\n```\n\n---",
     "scheduled_time": "2026-08-05 10:00",
-    "id": 6
+    "id": 6,
+    "last_run_at": "2026-08-05 09:17:32 UTC",
+    "last_result": {
+      "ig": false
+    }
   },
   {
     "title": "UA-08 — Miaka praktyka dykhannia",
