@@ -328,5 +328,26 @@
     "fb_text": "Не все треба витримувати наодинці.\n\nІноді навіть одна коротка розмова, уважна присутність поруч або можливість сказати вголос «мені непросто» вже трохи полегшує стан.\n\nПідтримка не робить нас слабкими. Навпаки — вона допомагає пройти складний період м’якше, спокійніше й без зайвого виснаження.\n\nЯкщо вам зараз важко:\n- зробіть маленьку паузу;\n- визнайте свій стан без осуду;\n- зверніться до людини, якій довіряєте;\n- дозвольте собі не справлятися з усім самотужки.\n\nБережіть себе. Маленькі кроки підтримки теж важливі.\n\n---",
     "scheduled_time": "2026-08-22 15:00",
     "id": 23
+  },
+  {
+    "title": "TEST-FB — delete after test",
+    "platforms": ["fb"],
+    "published": false,
+    "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FR-01-FB/EU_FR_FB_FR-01-FB_Sante_mentale_reste_une_priorite_1200x1500.png",
+    "fb_text": "Тестовий пост — перевірка автопостингу. Буде видалено.",
+    "scheduled_time": "2026-08-05 14:00",
+    "id": 998
+  },
+  {
+    "title": "TEST-IG — delete after test",
+    "platforms": ["ig"],
+    "published": false,
+    "ig_image_urls": [
+      "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-01/EU_UA_IG_UA-01_S01_Cover_Koly_tryvoha_nakryvaie_1080x1350.png"
+    ],
+    "ig_caption": "Тестовий пост — перевірка автопостингу. Буде видалено.",
+    "ig_hashtags": "#test",
+    "scheduled_time": "2026-08-05 14:00",
+    "id": 999
   }
 ]
