@@ -331,23 +331,35 @@
   },
   {
     "title": "TEST-FB — delete after test",
-    "platforms": ["fb"],
-    "published": false,
+    "platforms": [
+      "fb"
+    ],
+    "published": true,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/FR-01-FB/EU_FR_FB_FR-01-FB_Sante_mentale_reste_une_priorite_1200x1500.png",
     "fb_text": "Тестовий пост — перевірка автопостингу. Буде видалено.",
     "scheduled_time": "2026-08-05 14:00",
-    "id": 998
+    "id": 998,
+    "last_run_at": "2026-08-05 13:07:35 UTC",
+    "last_result": {
+      "fb": false
+    }
   },
   {
     "title": "TEST-IG — delete after test",
-    "platforms": ["ig"],
-    "published": false,
+    "platforms": [
+      "ig"
+    ],
+    "published": true,
     "ig_image_urls": [
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/images/UA-01/EU_UA_IG_UA-01_S01_Cover_Koly_tryvoha_nakryvaie_1080x1350.png"
     ],
     "ig_caption": "Тестовий пост — перевірка автопостингу. Буде видалено.",
     "ig_hashtags": "#test",
     "scheduled_time": "2026-08-05 14:00",
-    "id": 999
+    "id": 999,
+    "last_run_at": "2026-08-05 13:07:36 UTC",
+    "last_result": {
+      "ig": false
+    }
   }
 ]
