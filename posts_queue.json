@@ -4,18 +4,22 @@
     "platforms": [
       "tg"
     ],
-    "published": false,
+    "published": true,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/TG-17/EU_UA_TG_TG-17_Monthly_recap_1080x1350.png",
     "tg_text": "Підсумок місяця.\n\nЦього місяця ми говорили про підтримку, тривогу, втому, тіло, дітей, адаптацію і маленькі щоденні опори.\n\nІноді підтримка — це не велике рішення, а маленький крок: зупинитися, помітити себе, назвати те, що відчуваєш, звернутися по допомогу або просто не вимагати від себе ідеальності.\n\nНе обов’язково триматися ідеально.  \nВажливо мати простір, де можна видихнути.\n\nÉcoute Ukraine поруч.\n\n---",
     "scheduled_time": "2026-08-03 09:00",
-    "id": 1
+    "id": 1,
+    "last_run_at": "2026-08-05 15:01:22 UTC",
+    "last_result": {
+      "tg": true
+    }
   },
   {
     "title": "UA-01 — Koly tryvoha nakryvaie",
     "platforms": [
       "ig"
     ],
-    "published": false,
+    "published": true,
     "ig_image_urls": [
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/UA-01/EU_UA_IG_UA-01_S01_Cover_Koly_tryvoha_nakryvaie_1080x1350.png",
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/UA-01/EU_UA_IG_UA-01_S02_Povilno_vydykhnit_1080x1350.png",
@@ -27,47 +31,63 @@
     "ig_caption": "Іноді тривога приходить раптово — без видимої причини, без попередження, навіть тоді, коли навколо все ніби спокійно.\n\nЦе не означає, що з вами щось не так. Часто так нервова система реагує на тривалий стрес, перевтому або емоційне виснаження.\n\nЯкщо відчуваєте, що тривога “накриває”, спробуйте зробити щось дуже просте:\n\n1. Повільно видихніть.  \n2. Назвіть 5 предметів навколо.  \n3. Відчуйте опору під ногами.  \n4. Покладіть руку на груди або живіт.  \n5. Скажіть собі: “Це мине”.\n\nМаленькі дії не вирішують усе одразу, але можуть допомогти повернути відчуття опори.\n\nЗбережіть собі — можливо, ці кроки стануть вам у пригоді в потрібний момент.\n\n---",
     "ig_hashtags": "#ÉcouteUkraine #психологічнапідтримка #турботапросебе #ментальнездоровя #українціуфранції #тривога #психологія #підтримка #самопідтримка\n\n---",
     "scheduled_time": "2026-08-03 10:00",
-    "id": 2
+    "id": 2,
+    "last_run_at": "2026-08-05 15:01:22 UTC",
+    "last_result": {
+      "ig": false
+    }
   },
   {
     "title": "UA-02 — Malenka praktyka zazemlennya",
     "platforms": [
       "tg"
     ],
-    "published": false,
+    "published": true,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/UA-02/EU_UA_TG_UA-02_Malenka_praktyka_zazemlennya_1080x1350.png",
     "tg_text": "Сьогодні — маленька практика, яка може допомогти, якщо вас “розгойдує” тривога.\n\nСпробуйте вправу **5–4–3–2–1**:\n\n**5** речей, які ви бачите;  \n**4** речі, які можете відчути тілом;  \n**3** звуки, які чуєте;  \n**2** запахи, які помічаєте;  \n**1** річ, за яку можете подякувати собі просто зараз.\n\nЦя вправа не “скасовує” тривогу, але може м’яко повернути увагу в **“тут і зараз”**.\n\nБережіть себе. Маленькі кроки теж важливі.\n\n---",
     "scheduled_time": "2026-08-04 09:00",
-    "id": 3
+    "id": 3,
+    "last_run_at": "2026-08-05 15:01:23 UTC",
+    "last_result": {
+      "tg": true
+    }
   },
   {
     "title": "FR-01-FB — Sante mentale reste une priorite",
     "platforms": [
       "fb"
     ],
-    "published": false,
+    "published": true,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/FR-01-FB/EU_FR_FB_FR-01-FB_Sante_mentale_reste_une_priorite_1200x1500.png",
     "fb_text": "La santé mentale des Ukrainiens reste une priorité.\n\nLa guerre et l’exil ne laissent pas seulement des conséquences visibles.  \nIls fragilisent aussi le lien, la stabilité émotionnelle, le sentiment de sécurité et la capacité à se reconstruire dans la durée.\n\nÉcoute Ukraine construit des partenariats pour soutenir durablement les Ukrainiens touchés par la guerre et l’exil.\n\nNotre approche repose sur une action humaine, structurée et durable :\n- écoute ;\n- présence ;\n- accompagnement ;\n- coopération ;\n- mobilisation de ressources.\n\nSoutenir Écoute Ukraine, ce n’est pas répondre à un appel à la pitié.  \nC’est rejoindre une mission franco-ukrainienne d’utilité sociale.\n\n**Devenir partenaire / proposer un mécénat / aide en nature :**  \ncontact@ecouteukraine.fr\n\n**Faire un don :**  \nhttps://www.paypal.com/donate/?hosted_button_id=QPG3ZYZVHPKZC\n\n---",
     "scheduled_time": "2026-08-04 15:00",
-    "id": 4
+    "id": 4,
+    "last_run_at": "2026-08-05 15:01:27 UTC",
+    "last_result": {
+      "fb": true
+    }
   },
   {
     "title": "UA-04 — Tilo tezh vtomliuietsia vid stresu",
     "platforms": [
       "tg"
     ],
-    "published": false,
+    "published": true,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/UA-04/EU_UA_TG_UA-04_Tilo_tezh_vtomliuietsia_vid_stresu_1080x1350.png",
     "tg_text": "Стрес живе не лише в думках. Часто він накопичується в тілі:\n\n- у стиснених щелепах;\n- у плечах;\n- у напрузі в шиї;\n- у відчутті “не можу розслабитися”;\n- у постійній втомі.\n\nСьогодні спробуйте дуже просту річ:\n\n1. Підніміть плечі вгору.\n2. Затримайте на 3 секунди.\n3. Повільно опустіть.\n4. Повторіть 3 рази.\n\nІноді тілу потрібно нагадати, що воно може відпускати напругу.\n\nБережіть себе. Маленька пауза теж має значення.\n\n---",
     "scheduled_time": "2026-08-05 09:00",
-    "id": 5
+    "id": 5,
+    "last_run_at": "2026-08-05 15:01:29 UTC",
+    "last_result": {
+      "tg": true
+    }
   },
   {
     "title": "UA-03 — Mif ya mayu vporatysia sam sama",
     "platforms": [
       "ig"
     ],
-    "published": false,
+    "published": true,
     "ig_image_urls": [
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/UA-03/EU_UA_IG_UA-03_S01_Cover_Mif_ya_mayu_vporatysia_sam_sama_1080x1350.png",
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/UA-03/EU_UA_IG_UA-03_S02_Potreba_v_pidtrymtsi_ne_slabkist_1080x1350.png",
@@ -78,7 +98,11 @@
     "ig_caption": "Багато хто звик думати:  \n“Я маю триматися”,  \n“Не можна навантажувати інших”,  \n“Треба впоратися самостійно”.\n\nАле потреба в підтримці — це не слабкість.\n\nКоли ми довго живемо в напрузі, невизначеності, тривозі або втомі, просити про допомогу — це не ознака безсилля. Це спосіб подбати про себе.\n\nПідтримка може починатися з малого:\n\n- написати близькій людині;\n- сказати: “мені зараз важко”;\n- попросити побути поруч;\n- звернутися по професійну допомогу;\n- дозволити собі не бути сильним/сильною щодня.\n\nВи не зобов’язані проходити складне наодинці.\n\nЗбережіть цей пост або поділіться з тим, кому зараз важливо це почути.\n\n---",
     "ig_hashtags": "#ÉcouteUkraine #психологічнапідтримка #турботапросебе #ментальнездоровя #українціуфранції #підтримка #психологія #неодин\n```\n\n---",
     "scheduled_time": "2026-08-05 10:00",
-    "id": 6
+    "id": 6,
+    "last_run_at": "2026-08-05 15:01:29 UTC",
+    "last_result": {
+      "ig": false
+    }
   },
   {
     "title": "UA-08 — Miaka praktyka dykhannia",
@@ -310,24 +334,32 @@
     "platforms": [
       "fb"
     ],
-    "published": false,
+    "published": true,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/FR-01-FB/EU_FR_FB_FR-01-FB_Sante_mentale_reste_une_priorite_1200x1500.png",
     "fb_text": "Тестовий пост — перевірка автопостингу. Буде видалено.",
     "scheduled_time": "2026-08-05 14:00",
-    "id": 998
+    "id": 998,
+    "last_run_at": "2026-08-05 15:01:32 UTC",
+    "last_result": {
+      "fb": true
+    }
   },
   {
     "title": "TEST-IG — delete after test",
     "platforms": [
       "ig"
     ],
-    "published": false,
+    "published": true,
     "ig_image_urls": [
       "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/UA-01/EU_UA_IG_UA-01_S01_Cover_Koly_tryvoha_nakryvaie_1080x1350.png"
     ],
     "ig_caption": "Тестовий пост — перевірка автопостингу. Буде видалено.",
     "ig_hashtags": "#test",
     "scheduled_time": "2026-08-05 14:00",
-    "id": 999
+    "id": 999,
+    "last_run_at": "2026-08-05 15:01:33 UTC",
+    "last_result": {
+      "ig": false
+    }
   }
 ]
