@@ -109,11 +109,15 @@
     "platforms": [
       "tg"
     ],
-    "published": false,
+    "published": true,
     "image_url": "https://raw.githubusercontent.com/Reneval-of-Ukraine/SMM-Ecoute-Ukraine/main/UA-08/EU_UA_TG_UA-08_Miaka_praktyka_dykhannia_1080x1350.png",
     "tg_text": "Якщо зараз у вас напружений день, спробуйте коротку практику дихання.\n\nНа 2 хвилини:\n\n- вдих на 4 рахунки;\n- пауза на 1;\n- видих на 6.\n\nНе намагайтеся “дихати ідеально”.  \nПросто дозвольте собі трохи сповільнитися.\n\nІноді саме довший видих може допомогти тілу відчути трохи більше спокою.\n\nСпробуйте перед сном або перед важливою розмовою.\n\n---",
     "scheduled_time": "2026-08-06 09:00",
-    "id": 7
+    "id": 7,
+    "last_run_at": "2026-08-06 09:31:51 UTC",
+    "last_result": {
+      "tg": true
+    }
   },
   {
     "title": "FR-03 — Lexil ne se voit pas toujours",
